@@ -89,4 +89,12 @@
  
  # JVM学习 
   
-[mysql索引](https://github.com/151119011148/study/tree/master/jvm/note/mds/)
+[jvm基础理论知识](https://github.com/151119011148/study/tree/master/jvm/note/mds/basic.md)
+  
+[jvm类加载](https://github.com/151119011148/study/tree/master/jvm/note/mds/classLoader.md)
+  
+[jvm结构](https://github.com/151119011148/study/tree/master/jvm/note/mds/jvmStructure.md)
+  
+[jvm内存模型](https://github.com/151119011148/study/tree/master/jvm/note/mds/memoryArea.md)
+  
+[jvm垃圾收集](https://github.com/151119011148/study/tree/master/jvm/note/mds/garbageCollection.md)
